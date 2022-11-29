@@ -1,0 +1,17 @@
+{
+  "name": "solana-student-intro-program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interaction_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/borsh": "^0.2.5",
+    "@solana/web3.js": "^1.67.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
+  }
+}
